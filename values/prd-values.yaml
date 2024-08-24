@@ -1,0 +1,6 @@
+data:
+  namespace: prd-global-cluster-5-argocd
+  name: spring-boot-api
+  environment: prd
+  host: prd.inp.com
+  replicas: 5
